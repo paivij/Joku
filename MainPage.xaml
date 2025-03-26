@@ -26,7 +26,7 @@
 
 
             <!-- UUDEN NAPIN KOODI ja lisää tekstiä!!!! joooo -->
-            <Button
+			<Button
 			x:Name="DatabaseBtn"
 			Text="Connect to database"
 			SemanticProperties.Hint="Connects to database"

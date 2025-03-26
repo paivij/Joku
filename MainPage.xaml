@@ -24,6 +24,7 @@
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
 
+
 			<!-- UUDEN NAPIN KOODI ja lisää tekstiä!!!! joooo -->
 			<Button
 			x:Name="DatabaseBtn"

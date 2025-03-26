@@ -25,8 +25,8 @@
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
 
 
-			<!-- UUDEN NAPIN KOODI  ja lisää tekstiä!!!! ynna muuta -->
-			<Button
+            <!-- UUDEN NAPIN KOODI ja lisää tekstiä!!!! joooo -->
+            <Button
 			x:Name="DatabaseBtn"
 			Text="Connect to database"
 			SemanticProperties.Hint="Connects to database"

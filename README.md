@@ -9,4 +9,7 @@ vielä kerran
 jees jees
 
 lol mitä ihmettä tapahtuu
+
 helvetti
+
+houston we have a problem....

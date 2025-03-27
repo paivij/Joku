@@ -24,9 +24,3 @@ public class DatabaseConnector
     }
 }
 
-//namespace Joku
-//{
-//    class Class1
-//    {
-  //  }
-//}

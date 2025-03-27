@@ -13,3 +13,5 @@ lol mitä ihmettä tapahtuu
 helvetti
 
 houston we have a problem FHAT
+
+ei tule mitään

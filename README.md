@@ -9,3 +9,4 @@ vielä kerran
 jees jees
 
 lol mitä ihmettä tapahtuu
+helvetti

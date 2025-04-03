@@ -12,6 +12,11 @@ pllplä
 
 
 lol mitä ihmettä tapahtuu
+
 helvetti
 
-moroo
+houston we have a problem FHAT
+
+ei tule mitään
+
+hermot menee
